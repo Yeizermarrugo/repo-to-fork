@@ -1,1 +1,0 @@
-echo "Guillermo Alvarado contribution"
